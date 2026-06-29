@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task_1_javaDev {
+public class Calculator {
 
     
     public static double add(double a, double b) {
