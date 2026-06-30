@@ -53,5 +53,4 @@ java StudentManagementSystem
 ```
 
 ## Author
-
 **Dhineshkumar I**
