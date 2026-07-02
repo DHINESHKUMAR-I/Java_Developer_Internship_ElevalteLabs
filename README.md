@@ -52,5 +52,56 @@ javac Student.java StudentManagementSystem.java
 java StudentManagementSystem
 ```
 
+# Library Management System
+
+A simple console-based Library Management System developed in Java using Object-Oriented Programming (OOP) concepts as part of Task 3 of the Java Developer Internship.
+
+## Features
+
+- Add Books
+- View Available Books
+- Issue Books
+- Return Books
+- Menu-Driven Console Interface
+
+## OOP Concepts Used
+
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+
+## Technologies Used
+
+- Java
+- VS Code
+- Git & GitHub
+
+## Project Structure
+
+```
+Book.java
+User.java
+Person.java
+Student.java
+Library.java
+LibraryService.java
+Main.java
+```
+
+## How to Run
+
+Compile the project:
+
+```bash
+javac *.java
+```
+
+Run the application:
+
+```bash
+java Main
+```
+
 ## Author
 **Dhineshkumar I**
