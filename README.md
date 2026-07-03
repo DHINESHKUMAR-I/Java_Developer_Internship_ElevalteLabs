@@ -52,6 +52,8 @@ javac Student.java StudentManagementSystem.java
 java StudentManagementSystem
 ```
 
+### TASK - 3
+
 # Library Management System
 
 A simple console-based Library Management System developed in Java using Object-Oriented Programming (OOP) concepts as part of Task 3 of the Java Developer Internship.
@@ -102,6 +104,44 @@ Run the application:
 ```bash
 java Main
 ```
+
+
+### TASK - 4
+
+
+# Java File I/O – Notes App
+
+A simple console-based Notes App developed in Java using File I/O as part of Task 4 of the Java Developer Internship.
+
+## Features
+
+- Add Notes
+- View Saved Notes
+- File Read/Write
+- Exception Handling
+
+## Technologies Used
+
+- Java
+- VS Code
+- FileReader
+- FileWriter
+- BufferedReader
+
+## How to Run
+
+Compile
+
+```bash
+javac NotesApp.java
+```
+
+Run
+
+```bash
+java NotesApp
+```
+
 
 ## Author
 **Dhineshkumar I**
